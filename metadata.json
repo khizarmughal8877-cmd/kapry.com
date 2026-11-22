@@ -1,0 +1,6 @@
+{
+  "name": "kapry.com",
+  "description": "kapry.com — Contemporary clothing store featuring casual shirts, denim, dresses, outerwear, and everyday wardrobe essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
